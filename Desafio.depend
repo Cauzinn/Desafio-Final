@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1602191263 source:c:\users\thoma\onedrive\documentos\algoritmos c e c++\desafio\main.cpp
+	<iostream>
+	"Robot.h"
+	"Robotnao.h"
+
+1602191103 source:c:\users\thoma\onedrive\documentos\algoritmos c e c++\desafio\robotnao.cpp
+	"Robotnao.h"
+	"Robot.h"
+	<iostream>
+
+1602191090 c:\users\thoma\onedrive\documentos\algoritmos c e c++\desafio\robotnao.h
+	"Robot.h"
+
+1602186879 c:\users\thoma\onedrive\documentos\algoritmos c e c++\desafio\robot.h
+
+1602189360 source:c:\users\thoma\onedrive\documentos\algoritmos c e c++\desafio\robot.cpp
+	"Robot.h"
+	<iostream>
+
